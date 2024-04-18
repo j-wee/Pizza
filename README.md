@@ -1,2 +1,1 @@
-# Pizza
-Web Development training
+# pizza
